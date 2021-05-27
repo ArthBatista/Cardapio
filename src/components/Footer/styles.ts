@@ -6,7 +6,7 @@ export const Container = styled.div`
 }
  .la{
    font-family: 'IBM Plex Sans', sans-serif;
-    line-height: 1.5rem;
+    line-height: 1.3rem;
    }
  
     .oe{
@@ -14,7 +14,7 @@ export const Container = styled.div`
    }
 
     .oa{
-       position: relative;
+
        font-size: 1rem;
        left: 1%;
      }  
