@@ -1,19 +1,20 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  background: #FFD56D;
   height: 4rem;
 
   >.Head{
+    position: relative;
     font-family: 'IBM Plex Sans';
-      color: #707070;
+    color: #000;
     line-height: 1rem;
-  text-align: center;
+    left: -15%;
+   text-align: center;
   }
 
 >.mg{
   position: absolute;
-  top: 2%;
   right: 0%;
+  top: 0%;
 }
 `;
