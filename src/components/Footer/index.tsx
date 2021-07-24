@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
       <h2>2° Molhos</h2>
       <p>° Molho Vermelho<br />
          ° Molho bolonhesa<br />
-         ° Molho branco</p>
+         ° Molho branco </p>
          <h2>3° Macarrão</h2>
          <p>° Espaguete     <br />
             ° Talharim      <br />
