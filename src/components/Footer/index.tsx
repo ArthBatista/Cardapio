@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
               ° Laranja_______° Coca 1L <br />
               ° Maracujá______° Guaraná 1L <br />
               ° Acerola_______° Coca 350ml(LATA)<br />
-              ° Goiaba________° Guaraná 350ml(LATA)</p>                
+              ° Guarana 350ml(LATA)</p>                
       </div> 
     </Container>
   );
