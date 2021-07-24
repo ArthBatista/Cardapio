@@ -13,9 +13,9 @@ const Footer: React.FC = () => {
          ° Ervilha,Presunto, Salsicha <br />
          ° Tomate, cebola</p>
       <h2>2° Molhos</h2>
-      <p>° Molho Vermelho<br />
-         ° Molho bolonhesa<br />
-         ° Molho branco</p>
+      <p>° Molho Vermelho <br/>
+         ° Molho bolonhesa <br />
+         ° Molho branco </p>
          <h2>3° Macarrão</h2>
          <p>° Espaguete     <br />
             ° Talharim      <br />
