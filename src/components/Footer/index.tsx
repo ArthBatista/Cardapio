@@ -13,9 +13,9 @@ const Footer: React.FC = () => {
          ° Ervilha,Presunto, Salsicha <br />
          ° Tomate, cebola</p>
       <h2>2° Molhos</h2>
-      <p>° Molho Vermelho <br />
-         ° Molho bolonhesa <br />
-         ° Molho branco </p>
+      <p>° Molho branco <br />
+         ° Molho Vermelho<br />
+         ° Molho a bolonhesa</p>
          <h2>3° Macarrão</h2>
          <p>° Espaguete     <br />
             ° Talharim      <br />
@@ -24,10 +24,11 @@ const Footer: React.FC = () => {
             </p>
             <div className="oe"> <p>Pronto! Seu macarrão sera entregue em breve.</p> </div>
             <div className="oa"> <h3>Bebidas</h3></div>
+            <p>Sucos: <br />
               ° Laranja_______° Coca 1L <br />
               ° Maracujá______° Guaraná 1L <br />
-              ° Acerola_______° Coca 350ml(LATA)<br />
-              ° Goiaba________° Guaraná 350ml</p>                
+              ° Acerola_______° Coca 350ml<br />
+              ° Goiaba________° Guaraná 450ml</p>                
       </div> 
     </Container>
   );
